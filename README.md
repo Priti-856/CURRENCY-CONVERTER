@@ -17,15 +17,6 @@ A responsive and user-friendly Currency Converter web application that allows us
 - Currency API
 - Flags API
 
-  Currency-Converter/
-└── README.md
-├── index.html
-├── script.js
-├── style.css
-├── codes.js
-|── images/
-
-
 
 **How It Works**
 
